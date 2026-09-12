@@ -1310,7 +1310,7 @@ if page == "🏠 Home":
     st.markdown("Faculty of Engineering and Technology  ")
     st.markdown("SRM Institute of Science and Technology, Tiruchirappalli")
 
-    st.info("📧 **For queries, contact:** rsmani84@gmail.com")
+    st.info("📧 **For queries, contact:** rkirubhakaran875@gmail.com")
 
 
 # ============================================================
