@@ -1304,7 +1304,7 @@ if page == "🏠 Home":
     st.divider()
 
     st.markdown("### 👨‍🏫 Developed by")
-    st.markdown("**Dr. R. Kirubaharan**")
+    st.markdown("**R. Kirubaharan**")
     st.markdown("Research Scholar  ")
     st.markdown("Division of Chemistry, School of Sciences  ")
     st.markdown("Faculty of Engineering and Technology  ")
